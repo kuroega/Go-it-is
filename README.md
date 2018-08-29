@@ -2,7 +2,7 @@
 
 ## The content mainly surround the exercises in Go programming books
 
-[ ] Introducing Go
+-[ ] Introducing Go
 
-[ ] The Go Programming Language
+-[ ] The Go Programming Language
 
